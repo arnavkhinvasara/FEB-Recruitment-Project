@@ -1,0 +1,2 @@
+time, voltage data, current data, temperature data, battery capacity (used to calculate SOC data)
+
